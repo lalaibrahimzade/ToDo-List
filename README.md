@@ -1,1 +1,1 @@
-https://curious-semifreddo-3b88e0.netlify.app/
+https://todolist-js-lala.netlify.app/
